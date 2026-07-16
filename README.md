@@ -86,3 +86,15 @@ Solutions may be implemented in:
 This repository is continuously updated as I solve more LeetCode problems. Every solved question helps me strengthen my DSA fundamentals and become a better problem solver.
 
 ⭐ If you find this repository useful, feel free to explore the solutions and compare different approaches!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
