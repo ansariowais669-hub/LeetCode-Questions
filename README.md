@@ -92,6 +92,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
@@ -99,6 +100,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
