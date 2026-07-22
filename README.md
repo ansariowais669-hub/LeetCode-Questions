@@ -93,6 +93,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -103,6 +104,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
