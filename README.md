@@ -128,4 +128,12 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
