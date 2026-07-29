@@ -137,6 +137,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
@@ -146,4 +147,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
