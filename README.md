@@ -98,6 +98,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0138-copy-list-with-random-pointer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -121,6 +122,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0138-copy-list-with-random-pointer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## String
 |  |
@@ -160,6 +163,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
