@@ -111,6 +111,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -137,6 +138,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -144,12 +146,14 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -157,4 +161,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
