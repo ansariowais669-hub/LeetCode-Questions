@@ -131,6 +131,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0100-same-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -143,6 +144,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -216,6 +218,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0100-same-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -228,6 +231,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0100-same-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -254,4 +258,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
