@@ -181,6 +181,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -254,6 +255,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,4 +327,5 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
