@@ -20,7 +20,7 @@ public:
         dist[src] = 0;
 
         // src with 0 cost and 0 stops
-        q.push({src, {0, 0}});
+        q.push({src, {0, -1}});
 
         while(!q.empty()) {
 
@@ -31,16 +31,12 @@ public:
             int cost = curr.second.first;
             int stops = curr.second.second;
 
-            // We can use at most k stops => k + 1 flights
-            if(stops == k + 1)
-                continue;
-
             for(auto edge : graph[u]) {
 
                 int v = edge.first;
                 int wt = edge.second;
 
-                if(cost + wt < dist[v]) {
+                if(dist[v] > cost + wt && stops + 1 <= k) {
 
                     dist[v] = cost + wt;
 
@@ -52,8 +48,7 @@ public:
             }
         }
 
-        if(dist[dst] == INT_MAX)
-            return -1;
+        if(dist[dst] == INT_MAX) return -1;
 
         return dist[dst];
     }
