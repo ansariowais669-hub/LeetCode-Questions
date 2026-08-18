@@ -144,6 +144,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -260,6 +261,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -330,6 +332,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -341,6 +344,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0207-course-schedule](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
