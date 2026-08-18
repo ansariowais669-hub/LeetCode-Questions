@@ -148,6 +148,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +230,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -265,6 +268,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -347,6 +351,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0207-course-schedule](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -373,4 +378,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
