@@ -211,6 +211,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Queue
 |  |
@@ -392,4 +393,12 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
