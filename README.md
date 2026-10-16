@@ -191,6 +191,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -239,6 +240,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -323,6 +325,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -407,4 +410,24 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
