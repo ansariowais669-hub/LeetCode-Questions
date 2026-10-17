@@ -128,6 +128,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
