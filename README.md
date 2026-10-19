@@ -193,6 +193,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
