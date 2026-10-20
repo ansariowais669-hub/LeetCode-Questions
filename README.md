@@ -123,6 +123,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
@@ -185,6 +186,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -370,6 +372,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
