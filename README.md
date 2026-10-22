@@ -186,6 +186,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -372,6 +373,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -425,6 +427,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
