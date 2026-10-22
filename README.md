@@ -191,6 +191,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -231,6 +232,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
