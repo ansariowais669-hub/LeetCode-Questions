@@ -114,6 +114,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -186,6 +187,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -441,6 +443,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
