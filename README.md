@@ -133,6 +133,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Depth-First Search
@@ -204,6 +205,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
