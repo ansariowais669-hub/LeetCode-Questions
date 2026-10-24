@@ -191,6 +191,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -446,6 +447,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -477,4 +479,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
