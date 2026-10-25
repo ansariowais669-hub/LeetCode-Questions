@@ -133,6 +133,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -369,6 +371,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0173-binary-search-tree-iterator](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
@@ -441,6 +444,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -453,6 +457,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0088-merge-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -486,4 +491,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
