@@ -202,6 +202,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0118-pascals-triangle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -245,6 +246,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
