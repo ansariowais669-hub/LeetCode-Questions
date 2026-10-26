@@ -121,6 +121,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -223,6 +224,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
@@ -488,6 +490,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Simulation
 |  |
 | ------- |
+| [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
