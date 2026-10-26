@@ -212,6 +212,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -357,6 +358,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
@@ -372,6 +374,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
@@ -462,6 +465,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -495,4 +499,20 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
