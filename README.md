@@ -212,6 +212,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
@@ -378,6 +379,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -398,6 +400,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Graph Theory
@@ -515,9 +518,14 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Ordered Set
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
