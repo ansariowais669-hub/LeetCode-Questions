@@ -192,6 +192,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
@@ -373,6 +374,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
