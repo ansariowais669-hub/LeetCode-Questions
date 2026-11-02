@@ -205,6 +205,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0128-longest-consecutive-sequence](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -377,6 +378,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0035-search-insert-position](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
