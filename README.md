@@ -384,6 +384,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0400-nth-digit](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -459,6 +460,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0400-nth-digit) |
 ## Memoization
 |  |
 | ------- |
