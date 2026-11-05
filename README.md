@@ -233,6 +233,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -418,6 +419,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+| [2643-row-with-maximum-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Graph Theory
 |  |
 | ------- |
