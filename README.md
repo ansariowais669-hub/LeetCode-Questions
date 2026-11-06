@@ -231,6 +231,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -399,6 +400,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Iterator
 |  |
 | ------- |
@@ -419,6 +421,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Graph Theory
 |  |
