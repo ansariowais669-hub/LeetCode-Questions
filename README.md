@@ -133,6 +133,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -171,6 +172,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
