@@ -169,6 +169,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +195,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
@@ -561,4 +563,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
