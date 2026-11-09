@@ -175,6 +175,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -357,6 +358,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
