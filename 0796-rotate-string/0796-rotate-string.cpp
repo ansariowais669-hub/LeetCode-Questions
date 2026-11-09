@@ -6,7 +6,7 @@ public:
         goal += goal ;
         int i = goal.find(s) ;
         
-        if(i >= 0 && i <= s.length()) return true ;
+        if(i >= 0 && i < s.length()) return true ;
         return false ;
     }
 };
