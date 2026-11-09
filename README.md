@@ -135,6 +135,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0146-lru-cache](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
@@ -173,6 +174,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0796-rotate-string) |
@@ -501,6 +503,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0088-merge-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Merge Sort
