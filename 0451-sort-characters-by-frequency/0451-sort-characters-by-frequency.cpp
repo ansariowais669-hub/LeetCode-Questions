@@ -3,24 +3,17 @@ public:
     string frequencySort(string s) {
         unordered_map <char, int> hashmap ;
 
-        for(int i=0 ; i<s.size() ; i++){
-            if(hashmap.find(s[i]) == hashmap.end()) hashmap[s[i]] = 1;
-            else hashmap[s[i]]++ ;
-        }
+        for(char ch : s) hashmap[ch]++ ;
 
-        priority_queue <pair<int, char>> pq ;
-        for(auto val : hashmap) pq.push({val.second, val.first}) ;
+        vector <vector<char>> bucket(s.size()+1) ;
+
+        for(auto val : hashmap) bucket[val.second].push_back(val.first) ;
 
         string ans = "" ;
-        while(pq.size()){
-            auto val = pq.top() ;
-            pq.pop() ;
-
-            int freq = val.first ;
-            char ch = val.second ;
-
-            while(freq--) ans += ch ;
+        for(int i=s.size() ; i>=1 ; i--){
+            for(char ch : bucket[i]) ans += string(i, ch) ;
         }
+
         return ans ;
     }
 };
