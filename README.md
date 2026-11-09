@@ -126,6 +126,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -172,6 +173,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
@@ -490,6 +492,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
