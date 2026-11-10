@@ -143,6 +143,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Depth-First Search
 |  |
@@ -186,6 +187,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -295,6 +297,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
