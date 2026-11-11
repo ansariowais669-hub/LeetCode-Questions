@@ -187,6 +187,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -284,6 +285,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0410-split-array-largest-sum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Queue
 |  |
 | ------- |
