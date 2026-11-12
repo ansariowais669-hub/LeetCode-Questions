@@ -13,6 +13,30 @@ public:
 
 class Solution {
 public:
+    Node* flatten(Node* head, Node* tail) {
+        if(head == NULL) return NULL ;
+
+        Node* temp = head ;
+
+        while(temp != NULL){
+            if(temp->child){
+                Node* nextptr = temp->next ;
+                temp->next = flatten(temp->child, tail) ;
+                temp->next->prev = temp ;
+                temp->child = NULL ;
+
+                if(nextptr != NULL){
+                    tail->next = nextptr ;
+                    nextptr->prev = tail ;
+                }
+            }
+            temp = temp->next ;
+            if(temp == NULL) tail = temp ;
+        }
+
+        return head ;
+    }
+
     Node* flatten(Node* head) {
         if(head == NULL) return NULL ;
 
