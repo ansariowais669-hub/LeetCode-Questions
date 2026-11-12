@@ -14,30 +14,27 @@ public:
 class Solution {
 public:
     Node* flatten(Node* head) {
-        if(head == NULL) return head ;
+        if(head == NULL) return NULL ;
 
-        Node* curr = head ;
-        while (curr != NULL)
-        {
-            if(curr->child != NULL){
-                // Flatten the child Nodes
-                Node* Next = curr->next ;
-                curr->next = flatten(curr->child) ;
+        Node* temp = head ;
 
-                curr->next->prev = curr ;
-                curr->child = NULL ;
+        while(temp != NULL){
+            if(temp->child){
+                Node* nextptr = temp->next ;
+                temp->next = flatten(temp->child) ;
+                temp->next->prev = temp ;
+                temp->child = NULL ;
 
-                // Find tail
-                while(curr->next != NULL) curr = curr->next ;
+                while(temp->next != NULL) temp = temp->next ;
 
-                // Attach tail with the next pointer
-                if(Next != NULL){
-                    curr->next = Next ;
-                    Next->prev = curr ;
+                if(nextptr != NULL){
+                    temp->next = nextptr ;
+                    nextptr->prev = temp ;
                 }
             }
-            curr = curr->next ;
+            temp = temp->next ;
         }
+
         return head ;
     }
 };
