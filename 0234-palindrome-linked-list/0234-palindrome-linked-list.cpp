@@ -14,22 +14,32 @@ public:
         ListNode* slow = head ;
         ListNode* fast = head ;
 
-        vector <int> elements ;
-
         while(fast != NULL && fast->next != NULL){
-            elements.push_back(slow->val) ;
-
             slow = slow->next ;
             fast = fast->next->next ;
         }
 
-        int n = elements.size()-1 ;
+        if(fast != NULL) slow = slow->next ;
 
-        if(fast != NULL)  slow = slow->next ;
+        ListNode* prev = NULL ;
+        ListNode* curr = slow ;
 
-        for(int i=n ; i>=0 ; i--){
-            if(elements[i] != slow->val) return false ;
-            slow = slow->next ;
+        while(curr != NULL){
+            ListNode* Next = curr->next ;
+            curr->next = prev ;
+            
+            prev = curr ;
+            curr = Next ;
+        }
+
+        ListNode* second = prev ;
+        ListNode* first = head ;
+
+        while(second != NULL){
+            if(second->val != first->val) return false ;
+
+            second = second->next ;
+            first = first->next ;
         }
 
         return true ;
