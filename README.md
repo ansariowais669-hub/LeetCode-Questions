@@ -125,6 +125,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0141-linked-list-cycle](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0457-circular-array-loop](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +147,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0387-first-unique-character-in-a-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0817-linked-list-components) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -243,6 +245,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -608,4 +611,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
