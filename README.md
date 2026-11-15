@@ -92,6 +92,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
@@ -111,6 +112,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
@@ -515,6 +517,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
