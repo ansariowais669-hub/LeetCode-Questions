@@ -94,6 +94,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0002-add-two-numbers](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0061-rotate-list) |
@@ -331,6 +332,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -422,6 +424,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0148-sort-list) |
@@ -555,6 +558,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0912-sort-an-array) |
@@ -634,4 +638,8 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0457-circular-array-loop) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
