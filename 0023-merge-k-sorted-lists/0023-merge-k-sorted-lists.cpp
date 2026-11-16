@@ -8,53 +8,29 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution { // My solution --> O(nk^2)
 public:
-    ListNode* merge(ListNode* left , ListNode* right){
+    ListNode* mergeKLists(vector<ListNode*>& lists){
+        auto cmp = [](ListNode* a, ListNode* b) {return a->val > b->val ;} ;
+
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq ;
+
+        for(auto node : lists) if(node != NULL) pq.push(node) ;
+
         ListNode dummy(0) ;
         ListNode* temp = &dummy ;
 
-        while(left != NULL && right != NULL){
-            if(left->val <= right->val){
-                temp->next = left ;
-                left = left->next ;
-            }else{
-                temp->next = right ;
-                right = right->next ;
-            }
+        while(!pq.empty()){
+            ListNode* node = pq.top() ;
+            pq.pop() ;
 
+            temp->next = node ;
             temp = temp->next ;
+
+            if(node->next != NULL) pq.push(node->next) ;
         }
 
-        while(left != NULL){
-            temp->next = left ;
-            left = left->next ;
-
-            temp = temp->next ;
-        }
-
-        while(right != NULL){
-            temp->next = right ;
-            right = right->next ;
-
-            temp = temp->next ;
-        }
-
+        temp->next = NULL ;
         return dummy.next ;
-    }
-
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size() == 0) return NULL ;
-        else if(lists.size() == 1) return lists[0] ;
-
-        ListNode* head = lists[0] ;
-
-        for(int i=1 ; i<lists.size() ; i++){
-            if(lists[i] == NULL) continue ;
-
-            head = merge(head, lists[i]) ;
-        }
-
-        return head ;
     }
 };
