@@ -1,23 +1,20 @@
 class Solution {
 public:
-    set <vector<int>> s ;
-
     void sequences(vector<int>& candidates, int target, int i, vector<int>& ans,vector<vector<int>>& subsequences){
         if(i >= candidates.size() || target < 0) return ;
 
         if(target == 0){
-            if(s.find(ans) == s.end()){
-                subsequences.push_back({ans}) ;
-                s.insert(ans) ;
-            }
+            subsequences.push_back({ans}) ;
             return ;
         }
 
         //include and move
-        ans.push_back(candidates[i]) ;
-        sequences(candidates, target-candidates[i], i+1, ans, subsequences) ;
+        // ans.push_back(candidates[i]) ;
+        // sequences(candidates, target-candidates[i], i+1, ans, subsequences) ;
+        // We don't need this case as it will be dealt when we include and stay and then on upcoming recursions we exclude and move
 
         // include and stay
+        ans.push_back(candidates[i]) ;
         sequences(candidates, target-candidates[i], i, ans, subsequences) ;
 
         //exclude
