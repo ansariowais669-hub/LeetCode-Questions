@@ -251,6 +251,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0229-majority-element-ii) |
@@ -533,6 +534,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0013-roman-to-integer](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0400-nth-digit) |
 | [1903-largest-odd-number-in-string](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -633,6 +635,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -642,4 +645,20 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
