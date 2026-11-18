@@ -5,8 +5,12 @@ public:
             comb.push_back({ans}) ;
             return ;
         }
-        
+
         if(i == nums.size() || target < 0 || k < 0) return ;
+
+        // Pruning conditions
+        if(nums.size() - i < k) return ; // if we have less than k elements then break
+        if(nums[i] > target) return ; // if current element is greater than target then no solution exits from current i to last index
 
         //include
         ans.push_back(nums[i]) ;
