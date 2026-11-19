@@ -241,6 +241,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0039-combination-sum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -443,6 +444,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -557,6 +559,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0148-sort-list) |
