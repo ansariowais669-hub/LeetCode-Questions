@@ -170,6 +170,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -203,6 +204,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0014-longest-common-prefix](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -245,6 +247,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -445,6 +448,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0039-combination-sum](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -486,6 +490,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | ------- |
 | [0048-rotate-image](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
