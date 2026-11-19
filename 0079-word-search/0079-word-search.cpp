@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     bool check(vector<vector<char>>& board, string word, int idx, int i, int j){
         if(idx == word.size()) return true ;
 
@@ -7,16 +8,13 @@ public:
 
         if(word[idx] == board[i][j]){
             char c = board[i][j] ;
-            board[i][j] = '-' ;
+            board[i][j] = '-' ; // so that when we go back to previous cell from which we recursed by check1234 functions then we can return false from that as we do not want to go there
 
-            bool check1 = check(board, word, idx+1, i+1, j) ;
-            bool check2 = check(board, word, idx+1, i-1, j) ;
-            bool check3 = check(board, word, idx+1, i, j+1) ;
-            bool check4 = check(board, word, idx+1, i, j-1) ;
+            bool found = check(board, word, idx+1, i+1, j) || check(board, word, idx+1, i-1, j) || check(board, word, idx+1, i, j+1) || check(board, word, idx+1, i, j-1) ;
 
-            board[i][j] = c ;
+            board[i][j] = c ; // backtrack
 
-            return check1 || check2 || check3 || check4 ;
+            return found ;
         }
         return false ;
     }
