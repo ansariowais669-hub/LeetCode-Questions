@@ -22,11 +22,8 @@ public:
                     continue ;
                 }else if(asteroid > s.top().first) s.pop() ;
                 else{
-                    auto val = s.top() ;
-                    s.pop() ;
-
-                    positive = val.second ;
-                    asteroid = positive ? val.first : -1 * val.first ;
+                    flag = true ;
+                    break ;
                 }
             }
             if(!flag) s.push({asteroid, positive}) ;
