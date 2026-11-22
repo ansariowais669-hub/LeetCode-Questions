@@ -230,6 +230,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0234-palindrome-linked-list](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Array
@@ -276,6 +277,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 | [0496-next-greater-element-i](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
@@ -601,6 +603,7 @@ This repository is continuously updated as I solve more LeetCode problems. Every
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [2105-watering-plants-ii](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansariowais669-hub/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Boyer–Moore Majority Vote Algorithm
